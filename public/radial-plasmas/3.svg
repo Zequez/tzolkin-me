@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="3.9877999mm"
+   height="3.9877999mm"
+   viewBox="0 0 3.9877999 3.9877999"
+   version="1.1"
+   id="svg72303"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs72300">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3130">
+      <path
+         d="M 0,0 H 306 V 396 H 0 Z"
+         id="path3128" />
+    </clipPath>
+  </defs>
+  <g
+     id="layer2"
+     transform="translate(-123.06632,-103.78193)">
+    <g
+       id="g72862">
+      <g
+         id="g3124"
+         transform="matrix(0.35277777,0,0,-0.35277777,82.621021,233.93167)">
+        <g
+           id="g3126"
+           clip-path="url(#clipPath3130)">
+          <g
+             id="g3132"
+             transform="translate(125.6506,363.2769)">
+            <path
+               d="m 0,0 c 0,-2.956 -2.396,-5.351 -5.352,-5.351 -2.953,0 -5.349,2.395 -5.349,5.351 0,2.955 2.396,5.35 5.349,5.35 C -2.396,5.35 0,2.955 0,0"
+               style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="path3134" />
+          </g>
+          <g
+             id="g3136"
+             transform="translate(125.6506,363.2769)">
+            <path
+               d="m 0,0 c 0,-2.956 -2.396,-5.351 -5.352,-5.351 -2.953,0 -5.349,2.395 -5.349,5.351 0,2.955 2.396,5.35 5.349,5.35 C -2.396,5.35 0,2.955 0,0 Z"
+               style="fill:none;stroke:#231f20;stroke-width:0.603;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="path3138" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g3140"
+         transform="matrix(0.35277777,0,0,-0.35277777,124.99983,107.61754)">
+        <path
+           d="M 0,0 V 7.134 H 4.891"
+           style="fill:none;stroke:#231f20;stroke-width:0.603;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path3142" />
+      </g>
+    </g>
+  </g>
+</svg>

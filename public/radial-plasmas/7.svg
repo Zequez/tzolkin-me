@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="3.9885054mm"
+   height="3.9877999mm"
+   viewBox="0 0 3.9885054 3.9877999"
+   version="1.1"
+   id="svg72303"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs72300">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3250">
+      <path
+         d="M 0,0 H 306 V 396 H 0 Z"
+         id="path3248" />
+    </clipPath>
+  </defs>
+  <g
+     id="layer8"
+     transform="translate(-153.81848,-104.55074)">
+    <g
+       id="g3244"
+       transform="matrix(0.35277777,0,0,-0.35277777,66.348539,234.70051)">
+      <g
+         id="g3246"
+         clip-path="url(#clipPath3250)">
+        <g
+           id="g72900">
+          <g
+             id="g3252"
+             transform="translate(258.9508,363.277)">
+            <path
+               d="m 0,0 c 0,-2.956 -2.397,-5.351 -5.352,-5.351 -2.955,0 -5.351,2.395 -5.351,5.351 0,2.954 2.396,5.35 5.351,5.35 C -2.397,5.35 0,2.954 0,0"
+               style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="path3254" />
+          </g>
+          <g
+             id="g3256"
+             transform="translate(258.9508,363.277)">
+            <path
+               d="m 0,0 c 0,-2.956 -2.397,-5.351 -5.352,-5.351 -2.955,0 -5.351,2.395 -5.351,5.351 0,2.954 2.396,5.35 5.351,5.35 C -2.397,5.35 0,2.954 0,0 Z"
+               style="fill:none;stroke:#231f20;stroke-width:0.603;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="path3258" />
+          </g>
+          <g
+             id="g3260"
+             transform="translate(253.2604,364.424)">
+            <path
+               d="m 0,0 c 0.105,-0.787 0.434,-1.566 -0.085,-2.257 -0.509,-0.678 -1.429,-0.997 -1.901,-1.73 -0.377,-0.581 0.4,-1.394 0.357,-2.037"
+               style="fill:none;stroke:#231f20;stroke-width:0.603;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="path3262" />
+          </g>
+          <g
+             id="g3264"
+             transform="translate(249.9648,367.2415)">
+            <path
+               d="M 0,0 C 0.104,-2.986 6.944,-3.911 7.325,-0.123"
+               style="fill:none;stroke:#231f20;stroke-width:0.603;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="path3266" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

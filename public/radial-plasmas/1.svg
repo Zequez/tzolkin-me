@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="4.0188441mm"
+   height="3.9994416mm"
+   viewBox="0 0 4.0188441 3.9994416"
+   version="1.1"
+   id="svg72303"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs72300">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3278">
+      <path
+         d="M 0,0 H 306 V 396 H 0 Z"
+         id="path3276" />
+    </clipPath>
+  </defs>
+  <g
+     id="layer3"
+     transform="translate(-106.21939,-103.71214)">
+    <g
+       id="g72852">
+      <g
+         id="g3272"
+         transform="matrix(0.35277777,0,0,-0.35277777,89.14463,233.8677)">
+        <g
+           id="g3274"
+           clip-path="url(#clipPath3278)">
+          <g
+             id="g3280"
+             transform="translate(59.4914,363.2774)">
+            <path
+               d="m 0,0 c 0,-2.965 -2.417,-5.368 -5.396,-5.368 -2.977,0 -5.393,2.403 -5.393,5.368 0,2.964 2.416,5.366 5.393,5.366 C -2.417,5.366 0,2.964 0,0"
+               style="fill:#fbc707;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="path3282" />
+          </g>
+          <g
+             id="g3284"
+             transform="translate(59.4914,363.2774)">
+            <path
+               d="m 0,0 c 0,-2.965 -2.417,-5.368 -5.396,-5.368 -2.977,0 -5.393,2.403 -5.393,5.368 0,2.964 2.416,5.366 5.393,5.366 C -2.417,5.366 0,2.964 0,0 Z"
+               style="fill:none;stroke:#231f20;stroke-width:0.603;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="path3286" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g3288"
+         transform="matrix(0.35277777,0,0,-0.35277777,108.22888,103.85614)">
+        <path
+           d="M 0,0 V -10.609"
+           style="fill:none;stroke:#231f20;stroke-width:0.603;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path3290" />
+      </g>
+      <g
+         id="g3292"
+         transform="matrix(0.35277777,0,0,-0.35277777,106.35507,105.71176)">
+        <path
+           d="M 0,0 H 10.523"
+           style="fill:none;stroke:#231f20;stroke-width:0.603;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path3294" />
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="3.4949646mm"
+   height="3.4946213mm"
+   viewBox="0 0 3.4949646 3.4946213"
+   version="1.1"
+   id="svg72303"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   sodipodi:docname="plasmas.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview72305"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="4.8448706"
+     inkscape:cx="338.91514"
+     inkscape:cy="488.66114"
+     inkscape:window-width="1453"
+     inkscape:window-height="1147"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs72300">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath785">
+      <path
+         d="m -118.58581,-296.49819 h 306 V 99.501809 h -306 z"
+         id="path787"
+         style="stroke-width:0.999998" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath789">
+      <path
+         d="m -118.58581,-296.49819 h 306 V 99.501809 h -306 z"
+         id="path791"
+         style="stroke-width:0.999998" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath793">
+      <path
+         d="M -118.57941,-296.50721 H 187.4206 V 99.492795 h -306.00001 z"
+         id="path795"
+         style="stroke-width:0.999998" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="sellos"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-105.85742,-121.515)">
+    <g
+       id="g870">
+      <g
+         id="g48478"
+         transform="matrix(0.35277777,0,0,-0.35277777,108.81708,124.95917)"
+         clip-path="url(#clipPath793)">
+        <path
+           d="M 0,0 C 0.761,0 1.375,0.615 1.375,1.374 V 8.245 C 1.375,9.005 0.761,9.62 0,9.62 H -6.871 C -7.63,9.62 -8.247,9.005 -8.247,8.245 V 1.374 C -8.247,0.615 -7.63,0 -6.871,0 Z"
+           style="fill:#ed1639;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path48480" />
+      </g>
+      <g
+         id="g48482"
+         transform="matrix(0.35277777,0,0,-0.35277777,108.81934,124.96235)"
+         clip-path="url(#clipPath789)">
+        <path
+           d="M 0,0 C 0.762,0 1.377,0.616 1.377,1.377 V 8.26 C 1.377,9.022 0.762,9.638 0,9.638 h -6.884 c -0.76,0 -1.378,-0.616 -1.378,-1.378 V 1.377 C -8.262,0.616 -7.644,0 -6.884,0 Z"
+           style="fill:#ed114e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path48484" />
+      </g>
+      <g
+         id="g48486"
+         transform="matrix(0.35277777,0,0,-0.35277777,108.81934,124.96235)"
+         clip-path="url(#clipPath785)">
+        <path
+           d="M 0,0 C 0.762,0 1.377,0.616 1.377,1.377 V 8.26 C 1.377,9.022 0.762,9.638 0,9.638 h -6.884 c -0.76,0 -1.378,-0.616 -1.378,-1.378 V 1.377 C -8.262,0.616 -7.644,0 -6.884,0 Z"
+           style="fill:none;stroke:#231f20;stroke-width:0.268;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path48488" />
+      </g>
+      <g
+         id="g48490"
+         transform="matrix(0.35277777,0,0,-0.35277777,105.91414,123.69778)">
+        <path
+           d="M 0,0 H 9.474 M 2.408,5.973 V 1.335 h 1.017 v 4.638 m 0,-9.47 v 3.439 m -1.017,0 v -3.439 m 3.704,9.47 V 1.335 H 7.13 v 4.638 m 0,-9.47 v 3.439 m -1.018,0 v -3.439"
+           style="fill:none;stroke:#231f20;stroke-width:0.268;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.864;stroke-dasharray:none;stroke-opacity:1"
+           id="path48492" />
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="3.4949646mm"
+   height="3.4949722mm"
+   viewBox="0 0 3.4949646 3.4949722"
+   version="1.1"
+   id="svg72303"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   sodipodi:docname="plasmas.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview72305"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="4.8448706"
+     inkscape:cx="338.91514"
+     inkscape:cy="488.66114"
+     inkscape:window-width="1453"
+     inkscape:window-height="1147"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs72300">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath926">
+      <path
+         d="m -116.2048,-291.01879 h 306.00001 v 396 H -116.2048 Z"
+         id="path928"
+         style="stroke-width:0.999998" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath930">
+      <path
+         d="M -118.58661,-285.028 H 187.4134 v 396 h -306.00001 z"
+         id="path932"
+         style="stroke-width:0.999998" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath934">
+      <path
+         d="M -118.58661,-285.028 H 187.4134 v 396 h -306.00001 z"
+         id="path936"
+         style="stroke-width:0.999998" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="sellos"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-105.85734,-125.56109)">
+    <g
+       id="g944">
+      <g
+         id="g48502"
+         transform="matrix(0.35277777,0,0,-0.35277777,108.81962,129.00878)"
+         clip-path="url(#clipPath934)">
+        <path
+           d="M 0,0 C 0.76,0 1.376,0.616 1.376,1.377 V 8.263 C 1.376,9.023 0.76,9.639 0,9.639 h -6.885 c -0.761,0 -1.378,-0.616 -1.378,-1.376 V 1.377 C -8.263,0.616 -7.646,0 -6.885,0 Z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path48504" />
+      </g>
+      <g
+         id="g48506"
+         transform="matrix(0.35277777,0,0,-0.35277777,108.81962,129.00878)"
+         clip-path="url(#clipPath930)">
+        <path
+           d="M 0,0 C 0.76,0 1.376,0.616 1.376,1.377 V 8.263 C 1.376,9.023 0.76,9.639 0,9.639 h -6.885 c -0.761,0 -1.378,-0.616 -1.378,-1.376 V 1.377 C -8.263,0.616 -7.646,0 -6.885,0 Z"
+           style="fill:none;stroke:#231f20;stroke-width:0.268;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path48508" />
+      </g>
+      <g
+         id="g48510"
+         transform="matrix(0.35277777,0,0,-0.35277777,107.97937,126.89536)"
+         clip-path="url(#clipPath926)">
+        <path
+           d="m 0,0 c 0,-0.651 0.527,-1.179 1.175,-1.179 0.647,0 1.173,0.528 1.173,1.179 m -4.452,0 c 0,-0.651 -0.527,-1.179 -1.174,-1.179 -0.649,0 -1.175,0.528 -1.175,1.179 m 2.22,-3.392 c 0,-0.65 0.525,-1.176 1.174,-1.176 0.648,0 1.174,0.526 1.174,1.176 m -5.959,-0.107 c 3.402,0 4.758,3.188 4.758,5.638 0,-2.45 1.358,-5.638 4.759,-5.638 m -4.735,5.896 c 0.721,0 1.308,0.192 1.308,0.428 0,0.238 -0.587,0.429 -1.308,0.429 -0.721,0 -1.306,-0.191 -1.306,-0.429 0,-0.236 0.585,-0.428 1.306,-0.428 z m 0,-0.182 c 1.292,0 2.338,0.272 2.338,0.61 0,0.336 -1.046,0.608 -2.338,0.608 -1.292,0 -2.339,-0.272 -2.339,-0.608 0,-0.338 1.047,-0.61 2.339,-0.61 z"
+           style="fill:none;stroke:#231f20;stroke-width:0.268;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.864;stroke-dasharray:none;stroke-opacity:1"
+           id="path48512" />
+      </g>
+    </g>
+  </g>
+</svg>
