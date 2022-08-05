@@ -24,7 +24,8 @@ function App() {
     }, [user]);
 
     return (
-        <div className="min-w-full min-h-screen flex items-center justify-center bg-gray-200">
+        // <div className="min-w-full min-h-screen flex items-center justify-center bg-gray-200">
+        <div className="min-w-full min-h-screen bg-gray-200">
             {/* {!user ? <Auth /> : <Home user={user} />} */}
             {<Calendar />}
         </div>
