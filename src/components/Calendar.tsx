@@ -14,7 +14,7 @@ const tones: Tone[] = [
     { name: "Resonante" },
     { name: "Galáctico" },
     { name: "Solar" },
-    { name: "Planetar" },
+    { name: "Planetaria" },
     { name: "Espectr" },
     { name: "Cristal" },
     { name: "Cósmico" },
@@ -76,7 +76,7 @@ const Calendar = ({}) => {
                     &gt;
                 </button>
             </div>
-            <div className="flex-grow">
+            <div className="flex-grow flex flex-col">
                 <div className="flex p-1">
                     {plasmas.map((plasma, i) => (
                         <div className="flex-grow flex flex-col items-center uppercase font-medium m-1 py-2 rounded-md bg-black bg-opacity-10">
@@ -85,6 +85,17 @@ const Calendar = ({}) => {
                                 className=""
                             />
                             {plasma.name}
+                        </div>
+                    ))}
+                </div>
+                <div className="flex-grow flex flex-col p-1">
+                    {[...Array(4)].map((_, week) => (
+                        <div className="flex flex-grow">
+                            {[...Array(7)].map((_, plasma) => (
+                                <div className="flex flex-grow items-center justify-center bg-gray-400 m-1 rounded-md">
+                                    {plasma}
+                                </div>
+                            ))}
                         </div>
                     ))}
                 </div>
