@@ -5,31 +5,31 @@ import Home from "./components/Home";
 import Calendar from "./components/Calendar";
 
 function App() {
-    const [user, setUser] = useState(null);
+  const [user, setUser] = useState(null);
 
-    useEffect(() => {
-        const session = supabase.auth.session();
-        setUser(session?.user ?? null);
+  useEffect(() => {
+    const session = supabase.auth.session();
+    setUser(session?.user ?? null);
 
-        const { data: authListener } = supabase.auth.onAuthStateChange(
-            async (event, session) => {
-                const currentUser = session?.user;
-                setUser(currentUser ?? null);
-            }
-        );
-
-        return () => {
-            authListener?.unsubscribe();
-        };
-    }, [user]);
-
-    return (
-        // <div className="min-w-full min-h-screen flex items-center justify-center bg-gray-200">
-        <div className="min-w-full min-h-screen bg-gray-200">
-            {/* {!user ? <Auth /> : <Home user={user} />} */}
-            {<Calendar />}
-        </div>
+    const { data: authListener } = supabase.auth.onAuthStateChange(
+      async (event, session) => {
+        const currentUser = session?.user;
+        setUser(currentUser ?? null);
+      }
     );
+
+    return () => {
+      authListener?.unsubscribe();
+    };
+  }, [user]);
+
+  return (
+    // <div className="min-w-full min-h-screen flex items-center justify-center bg-gray-200">
+    <div className="min-w-full min-h-screen bg-gray-300">
+      {/* {!user ? <Auth /> : <Home user={user} />} */}
+      {<Calendar />}
+    </div>
+  );
 }
 
 export default App;
