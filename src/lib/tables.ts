@@ -33,18 +33,19 @@ export const tones: Tone[] = [
 export type Seal = {
   name: string;
   color: number;
+  fem?: boolean;
 };
 
 export const seals: Seal[] = [
   { name: "Dragón", color: 0 },
   { name: "Viento", color: 1 },
-  { name: "Noche", color: 2 },
-  { name: "Semilla", color: 3 },
-  { name: "Serpiente", color: 0 },
+  { name: "Noche", color: 2, fem: true },
+  { name: "Semilla", color: 3, fem: true },
+  { name: "Serpiente", color: 0, fem: true },
   { name: "Enlazador de Mundos", color: 1 },
-  { name: "Mano", color: 2 },
-  { name: "Estrella", color: 3 },
-  { name: "Luna", color: 0 },
+  { name: "Mano", color: 2, fem: true },
+  { name: "Estrella", color: 3, fem: true },
+  { name: "Luna", color: 0, fem: true },
   { name: "Perro", color: 1 },
   { name: "Mono", color: 2 },
   { name: "Humano", color: 3 },
@@ -52,9 +53,9 @@ export const seals: Seal[] = [
   { name: "Mago", color: 1 },
   { name: "Águila", color: 2 },
   { name: "Guerrero", color: 3 },
-  { name: "Tierra", color: 0 },
+  { name: "Tierra", color: 0, fem: true },
   { name: "Espejo", color: 1 },
-  { name: "Tormenta", color: 2 },
+  { name: "Tormenta", color: 2, fem: true },
   { name: "Sol", color: 3 },
 ];
 

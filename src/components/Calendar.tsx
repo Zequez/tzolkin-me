@@ -1,10 +1,39 @@
 import { useState } from "react";
 import cx from "classnames";
 import { opacify, feminizar } from "../lib/utils";
-import { colors, tones, plasmas } from "../lib/tables";
+import { colors, tones, seals, plasmas } from "../lib/tables";
+
+const day1Date = new Date("2022-07-26");
+const day1Tone = 3;
+const day1Seal = 8;
+
+const getDaySeal = (moon: number, day: number): number => {
+  const days = moon * 28 + day + day1Seal;
+  return days % 20;
+};
+
+const getDayTone = (moon: number, day: number): number => {
+  const days = moon * 28 + day + day1Tone;
+  return days % 13;
+};
+
+const isSameDay = (date1: Date, date2: Date): boolean => {
+  return (
+    date1.getFullYear() === date2.getFullYear() &&
+    date1.getMonth() === date2.getMonth() &&
+    date1.getDate() === date2.getDate()
+  );
+};
+
+function addDays(date: Date, number: number): Date {
+  const newDate = new Date(date);
+  return new Date(newDate.setDate(newDate.getDate() + number));
+}
 
 const Calendar = ({}) => {
-  const [moon, setMoon] = useState(1);
+  const [moon, setMoon] = useState(0);
+  const [day, setDay] = useState(0);
+  const today = new Date();
 
   const nextMoon = () => {
     if (moon === 12) {
@@ -31,7 +60,7 @@ const Calendar = ({}) => {
         >
           &lt;
         </button>
-        <div className="bg-black bg-opacity-10 grid grid-cols-13 gap-1 flex-grow h-full">
+        <div className="grid grid-cols-13 gap-1 flex-grow h-full">
           {tones.map((tone, moonTone) => (
             <div
               className={cx(
@@ -86,8 +115,11 @@ const Calendar = ({}) => {
         <div className="flex-grow flex flex-col">
           {colors.map((color, weekNumber) => (
             <div
-              className="flex-grow flex"
-              style={{ backgroundColor: opacify(color.code, 0.5) }}
+              className="flex"
+              style={{
+                backgroundColor: opacify(color.code, 0.5),
+                flex: "1 1 0",
+              }}
             >
               <div
                 className="w-12 my-2 flex-shrink-0 flex items-center justify-center rounded-r-md"
@@ -105,24 +137,49 @@ const Calendar = ({}) => {
                       className="z-10 absolute w-8 h-full top-0"
                       style={{ backgroundColor: colors[plasma.color].code }}
                     ></div>
-                    <div
-                      className="z-20 my-2 flex flex-grow items-center justify-center bg-white rounded-md border-solid border border-gray-300"
-                      style={
-                        {
-                          //   borderTopColor: colors[plasma.color].code,
-                          //   borderLeftColor: color.code,
-                          //   backgroundColor: opacify(color.code, 0.25),
-                        }
-                      }
-                    >
-                      {weekdayNumber}
-                    </div>
+                    <DaySlot moon={moon} day={weekNumber * 7 + weekdayNumber} />
                   </div>
                 ))}
               </div>
             </div>
           ))}
         </div>
+      </div>
+    </div>
+  );
+};
+
+const DaySlot = ({ moon, day }: { moon: number; day: number }) => {
+  const dayGregDate = addDays(day1Date, moon * 28 + day);
+  const dayTone = getDayTone(moon, day);
+  const daySeal = getDaySeal(moon, day);
+
+  const gregYear = dayGregDate.getFullYear();
+  const gregMonth = dayGregDate.getMonth() + 1;
+  const gregDay = dayGregDate.getDate() + 1;
+
+  return (
+    <div className="z-20 my-2 leading-4 flex flex-grow flex-col items-center justify-center bg-white rounded-md border-solid border border-gray-300">
+      <div>
+        <img
+          src={`/galactic-tones/${dayTone + 1}.svg`}
+          className="w-8 inline-block"
+        />
+      </div>
+      <div className="mb-2">
+        <img
+          src={`/solar-seals/${daySeal + 1}.svg`}
+          className="w-12 inline-block"
+        />
+      </div>
+      <div>{seals[daySeal].name}</div>
+      <div className="mb-2">
+        {seals[daySeal].fem
+          ? feminizar(tones[dayTone].name)
+          : tones[dayTone].name}
+      </div>
+      <div className="opacity-50">
+        {gregYear}-{gregMonth}-{gregDay}
       </div>
     </div>
   );
