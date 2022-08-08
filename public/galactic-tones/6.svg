@@ -2,37 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="4.0731659mm"
-   height="1.2984619mm"
-   viewBox="0 0 4.0731659 1.2984619"
+   width="4.0731764mm"
+   height="2.0344443mm"
+   viewBox="0 0 4.0731764 2.0344443"
    version="1.1"
    id="svg72303"
-   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
-   sodipodi:docname="plasmas.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview72305"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
-     showgrid="false"
-     inkscape:zoom="4.8448706"
-     inkscape:cx="338.91514"
-     inkscape:cy="488.66114"
-     inkscape:window-width="1453"
-     inkscape:window-height="1147"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="layer1" />
   <defs
      id="defs72300">
     <clipPath
@@ -53,12 +29,11 @@
     </clipPath>
   </defs>
   <g
-     inkscape:label="sellos"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(-132.95467,-128.90983)">
+     id="layer9"
+     transform="translate(-151.35392,-148.01936)">
     <g
-       id="g26390">
+       id="g26390"
+       transform="translate(18.399257,19.84552)">
       <g
          id="g47892"
          transform="matrix(0.35277777,0,0,-0.35277777,135.31577,129.23332)"
@@ -77,6 +52,13 @@
            style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
            id="path47898" />
       </g>
+      <rect
+         style="fill:#838383;fill-opacity:0;stroke-width:0.0600231"
+         id="rect800-35-9"
+         width="4.0728192"
+         height="2.0344355"
+         x="132.95502"
+         y="128.17384" />
     </g>
   </g>
 </svg>

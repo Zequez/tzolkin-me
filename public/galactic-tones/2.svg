@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="1.9296722mm"
-   height="0.72072601mm"
-   viewBox="0 0 1.9296722 0.72072601"
+   width="4.0728192mm"
+   height="2.0344355mm"
+   viewBox="0 0 4.0728192 2.0344355"
    version="1.1"
    id="svg72303"
    xmlns="http://www.w3.org/2000/svg"
@@ -29,13 +29,14 @@
     </clipPath>
   </defs>
   <g
-     id="layer1"
-     transform="translate(-134.02651,-117.02577)">
+     id="layer9"
+     transform="translate(-151.35409,-135.95905)">
     <g
-       id="g26366">
+       id="g26366"
+       transform="translate(18.42466,20.203636)">
       <g
          id="g47900"
-         transform="matrix(0.35277777,0,0,-0.35277777,134.74864,117.38595)"
+         transform="matrix(0.35277777,0,0,-0.35277777,134.71853,117.42931)"
          clip-path="url(#clipPath25050)">
         <path
            d="m 0,0 c 0,-0.565 -0.46,-1.022 -1.025,-1.022 -0.562,0 -1.022,0.457 -1.022,1.022 0,0.564 0.46,1.021 1.022,1.021 C -0.46,1.021 0,0.564 0,0"
@@ -44,13 +45,20 @@
       </g>
       <g
          id="g47904"
-         transform="matrix(0.35277777,0,0,-0.35277777,135.95617,117.38595)"
+         transform="matrix(0.35277777,0,0,-0.35277777,135.92606,117.42931)"
          clip-path="url(#clipPath25046)">
         <path
            d="m 0,0 c 0,-0.565 -0.455,-1.022 -1.024,-1.022 -0.564,0 -1.019,0.457 -1.019,1.022 0,0.564 0.455,1.021 1.019,1.021 C -0.455,1.021 0,0.564 0,0"
            style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
            id="path47906" />
       </g>
+      <rect
+         style="fill:#838383;fill-opacity:0;stroke-width:0.0600231"
+         id="rect800-5"
+         width="4.0728192"
+         height="2.0344355"
+         x="132.92943"
+         y="115.75542" />
     </g>
   </g>
 </svg>

@@ -163,7 +163,7 @@ const DaySlot = ({ moon, day }: { moon: number; day: number }) => {
       <div>
         <img
           src={`/galactic-tones/${dayTone + 1}.svg`}
-          className="w-8 inline-block"
+          className="w-10 inline-block mb-1 opacity-80"
         />
       </div>
       <div className="mb-2">

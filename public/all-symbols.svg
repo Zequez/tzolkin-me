@@ -8,7 +8,7 @@
    version="1.1"
    id="svg72303"
    inkscape:version="1.2 (dc2aeda, 2022-05-15)"
-   sodipodi:docname="plasmas.svg"
+   sodipodi:docname="all-symbols.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,15 +24,22 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="4.8448706"
-     inkscape:cx="545.73181"
-     inkscape:cy="488.66114"
+     inkscape:zoom="5.0607869"
+     inkscape:cx="604.84665"
+     inkscape:cy="469.7886"
      inkscape:window-width="1453"
      inkscape:window-height="1147"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer9"
+     showguides="true">
+    <sodipodi:guide
+       position="153.39049,176.69057"
+       orientation="1,0"
+       id="guide4288"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
   <defs
      id="defs72300">
     <clipPath
@@ -983,443 +990,27 @@
          id="path25084"
          style="stroke-width:0.999998" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath25022-1">
+      <path
+         d="m -193.7984,-309.35019 h 306 V 86.649809 h -306 z"
+         id="path25024-8"
+         style="stroke-width:0.999998" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath25026-8">
+      <path
+         d="M -190.37509,-309.35019 H 115.62492 V 86.649809 h -306.00001 z"
+         id="path25028-3"
+         style="stroke-width:0.999998" />
+    </clipPath>
   </defs>
   <g
      inkscape:label="sellos"
      inkscape:groupmode="layer"
      id="layer1">
-    <g
-       id="g26384"
-       inkscape:export-filename="galactic-tones/4.svg"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <g
-         id="g47868"
-         transform="matrix(0.35277777,0,0,-0.35277777,133.68438,123.47151)"
-         clip-path="url(#clipPath25082)">
-        <path
-           d="m 0,0 c 0,-0.51 -0.41,-0.923 -0.917,-0.923 -0.509,0 -0.923,0.413 -0.923,0.923 0,0.506 0.414,0.916 0.923,0.916 C -0.41,0.916 0,0.506 0,0"
-           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path47870" />
-      </g>
-      <g
-         id="g47872"
-         transform="matrix(0.35277777,0,0,-0.35277777,134.77235,123.47151)"
-         clip-path="url(#clipPath25078)">
-        <path
-           d="m 0,0 c 0,-0.51 -0.413,-0.923 -0.921,-0.923 -0.507,0 -0.919,0.413 -0.919,0.923 0,0.506 0.412,0.916 0.919,0.916 C -0.413,0.916 0,0.506 0,0"
-           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path47874" />
-      </g>
-      <g
-         id="g47876"
-         transform="matrix(0.35277777,0,0,-0.35277777,135.85929,123.47151)"
-         clip-path="url(#clipPath25074)">
-        <path
-           d="m 0,0 c 0,-0.51 -0.411,-0.923 -0.92,-0.923 -0.508,0 -0.918,0.413 -0.918,0.923 0,0.506 0.41,0.916 0.918,0.916 C -0.411,0.916 0,0.506 0,0"
-           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path47878" />
-      </g>
-      <g
-         id="g47880"
-         transform="matrix(0.35277777,0,0,-0.35277777,136.94726,123.47151)"
-         clip-path="url(#clipPath25070)">
-        <path
-           d="m 0,0 c 0,-0.51 -0.412,-0.923 -0.921,-0.923 -0.509,0 -0.921,0.413 -0.921,0.923 0,0.506 0.412,0.916 0.921,0.916 C -0.412,0.916 0,0.506 0,0"
-           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path47882" />
-      </g>
-    </g>
-    <g
-       id="g47884"
-       transform="matrix(0.35277777,0,0,-0.35277777,132.95498,126.62449)"
-       clip-path="url(#clipPath25066)"
-       inkscape:export-filename="galactic-tones/5.svg"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <path
-         d="m 0,0 c 0,-0.156 0.124,-0.28 0.279,-0.28 h 10.985 c 0.157,0 0.28,0.124 0.28,0.28 v 0.614 c 0,0.158 -0.123,0.282 -0.28,0.282 H 0.279 C 0.124,0.896 0,0.772 0,0.614 Z"
-         style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path47886" />
-    </g>
-    <g
-       id="g47888"
-       transform="matrix(0.35277777,0,0,-0.35277777,135.35172,114.34271)"
-       clip-path="url(#clipPath25062)"
-       inkscape:export-filename="galactic-tones/1.svg"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <path
-         d="m 0,0 c 0,-0.563 -0.459,-1.022 -1.022,-1.022 -0.564,0 -1.021,0.459 -1.021,1.022 0,0.565 0.457,1.021 1.021,1.021 C -0.459,1.021 0,0.565 0,0"
-         style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path47890" />
-    </g>
-    <g
-       id="g26390"
-       inkscape:export-filename="galactic-tones/6.svg"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <g
-         id="g47892"
-         transform="matrix(0.35277777,0,0,-0.35277777,135.31577,129.23332)"
-         clip-path="url(#clipPath25058)">
-        <path
-           d="m 0,0 c 0,-0.51 -0.411,-0.923 -0.921,-0.923 -0.509,0 -0.92,0.413 -0.92,0.923 0,0.505 0.411,0.917 0.92,0.917 C -0.411,0.917 0,0.505 0,0"
-           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path47894" />
-      </g>
-      <g
-         id="g47896"
-         transform="matrix(0.35277777,0,0,-0.35277777,132.95466,130.10951)"
-         clip-path="url(#clipPath25054)">
-        <path
-           d="m 0,0 c 0,-0.156 0.124,-0.28 0.281,-0.28 h 10.985 c 0.154,0 0.28,0.124 0.28,0.28 v 0.614 c 0,0.158 -0.126,0.282 -0.28,0.282 H 0.281 C 0.124,0.896 0,0.772 0,0.614 Z"
-           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path47898" />
-      </g>
-    </g>
-    <g
-       id="g26366"
-       inkscape:export-filename="galactic-tones/2.svg"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <g
-         id="g47900"
-         transform="matrix(0.35277777,0,0,-0.35277777,134.74864,117.38595)"
-         clip-path="url(#clipPath25050)">
-        <path
-           d="m 0,0 c 0,-0.565 -0.46,-1.022 -1.025,-1.022 -0.562,0 -1.022,0.457 -1.022,1.022 0,0.564 0.46,1.021 1.022,1.021 C -0.46,1.021 0,0.564 0,0"
-           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path47902" />
-      </g>
-      <g
-         id="g47904"
-         transform="matrix(0.35277777,0,0,-0.35277777,135.95617,117.38595)"
-         clip-path="url(#clipPath25046)">
-        <path
-           d="m 0,0 c 0,-0.565 -0.455,-1.022 -1.024,-1.022 -0.564,0 -1.019,0.457 -1.019,1.022 0,0.564 0.455,1.021 1.019,1.021 C -0.455,1.021 0,0.564 0,0"
-           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path47906" />
-      </g>
-    </g>
-    <g
-       id="g26400"
-       inkscape:export-filename="galactic-tones/7.svg"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <g
-         id="g47908"
-         transform="matrix(0.35277777,0,0,-0.35277777,132.95434,133.15279)"
-         clip-path="url(#clipPath25042)">
-        <path
-           d="m 0,0 c 0,-0.156 0.128,-0.281 0.283,-0.281 h 10.984 c 0.157,0 0.281,0.125 0.281,0.281 v 0.615 c 0,0.155 -0.124,0.281 -0.281,0.281 H 0.283 C 0.128,0.896 0,0.77 0,0.615 Z"
-           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path47910" />
-      </g>
-      <g
-         id="g47912"
-         transform="matrix(0.35277777,0,0,-0.35277777,134.77284,132.27716)"
-         clip-path="url(#clipPath25038)">
-        <path
-           d="m 0,0 c 0,-0.51 -0.413,-0.921 -0.922,-0.921 -0.508,0 -0.92,0.411 -0.92,0.921 0,0.508 0.412,0.919 0.92,0.919 C -0.413,0.919 0,0.508 0,0"
-           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path47914" />
-      </g>
-      <g
-         id="g47916"
-         transform="matrix(0.35277777,0,0,-0.35277777,135.86003,132.27716)"
-         clip-path="url(#clipPath25034)">
-        <path
-           d="m 0,0 c 0,-0.51 -0.412,-0.921 -0.918,-0.921 -0.511,0 -0.924,0.411 -0.924,0.921 0,0.508 0.413,0.919 0.924,0.919 C -0.412,0.919 0,0.508 0,0"
-           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path47918" />
-      </g>
-      <g
-         id="g47920"
-         transform="matrix(0.35277777,0,0,-0.35277777,132.95434,133.15279)"
-         clip-path="url(#clipPath25030)">
-        <path
-           d="m 0,0 c 0,-0.156 0.128,-0.281 0.283,-0.281 h 10.984 c 0.157,0 0.281,0.125 0.281,0.281 v 0.615 c 0,0.155 -0.124,0.281 -0.281,0.281 H 0.283 C 0.128,0.896 0,0.77 0,0.615 Z"
-           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path47922" />
-      </g>
-    </g>
-    <g
-       id="g26374"
-       inkscape:export-filename="galactic-tones/3.svg"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <g
-         id="g47924"
-         transform="matrix(0.35277777,0,0,-0.35277777,134.145,120.42845)"
-         clip-path="url(#clipPath25026)">
-        <path
-           d="m 0,0 c 0,-0.567 -0.458,-1.024 -1.022,-1.024 -0.568,0 -1.027,0.457 -1.027,1.024 0,0.56 0.459,1.018 1.027,1.018 C -0.458,1.018 0,0.56 0,0"
-           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path47926" />
-      </g>
-      <g
-         id="g47928"
-         transform="matrix(0.35277777,0,0,-0.35277777,135.35267,120.42845)"
-         clip-path="url(#clipPath25022)">
-        <path
-           d="m 0,0 c 0,-0.567 -0.457,-1.024 -1.022,-1.024 -0.566,0 -1.022,0.457 -1.022,1.024 0,0.56 0.456,1.018 1.022,1.018 C -0.457,1.018 0,0.56 0,0"
-           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path47930" />
-      </g>
-      <g
-         id="g47932"
-         transform="matrix(0.35277777,0,0,-0.35277777,136.56033,120.42845)"
-         clip-path="url(#clipPath25018)">
-        <path
-           d="m 0,0 c 0,-0.567 -0.458,-1.024 -1.021,-1.024 -0.563,0 -1.022,0.457 -1.022,1.024 0,0.56 0.459,1.018 1.022,1.018 C -0.458,1.018 0,0.56 0,0"
-           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path47934" />
-      </g>
-    </g>
-    <g
-       id="g26422"
-       inkscape:export-filename="galactic-tones/9.svg"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <g
-         id="g47936"
-         transform="matrix(0.35277777,0,0,-0.35277777,152.10954,117.54459)"
-         clip-path="url(#clipPath25014)">
-        <path
-           d="m 0,0 c 0,-0.509 -0.413,-0.922 -0.922,-0.922 -0.504,0 -0.919,0.413 -0.919,0.922 0,0.506 0.415,0.918 0.919,0.918 C -0.413,0.918 0,0.506 0,0"
-           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path47938" />
-      </g>
-      <g
-         id="g47940"
-         transform="matrix(0.35277777,0,0,-0.35277777,153.19709,117.54459)"
-         clip-path="url(#clipPath25010)">
-        <path
-           d="m 0,0 c 0,-0.509 -0.412,-0.922 -0.922,-0.922 -0.508,0 -0.92,0.413 -0.92,0.922 0,0.506 0.412,0.918 0.92,0.918 C -0.412,0.918 0,0.506 0,0"
-           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path47942" />
-      </g>
-      <g
-         id="g47944"
-         transform="matrix(0.35277777,0,0,-0.35277777,154.28463,117.54459)"
-         clip-path="url(#clipPath25006)">
-        <path
-           d="m 0,0 c 0,-0.509 -0.414,-0.922 -0.921,-0.922 -0.511,0 -0.921,0.413 -0.921,0.922 0,0.506 0.41,0.918 0.921,0.918 C -0.414,0.918 0,0.506 0,0"
-           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path47946" />
-      </g>
-      <g
-         id="g47948"
-         transform="matrix(0.35277777,0,0,-0.35277777,155.3709,117.54459)"
-         clip-path="url(#clipPath25002)">
-        <path
-           d="m 0,0 c 0,-0.509 -0.409,-0.922 -0.919,-0.922 -0.51,0 -0.921,0.413 -0.921,0.922 0,0.506 0.411,0.918 0.921,0.918 C -0.409,0.918 0,0.506 0,0"
-           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path47950" />
-      </g>
-      <g
-         id="g47952"
-         transform="matrix(0.35277777,0,0,-0.35277777,151.37859,118.42047)"
-         clip-path="url(#clipPath24998)">
-        <path
-           d="m 0,0 c 0,-0.157 0.128,-0.281 0.283,-0.281 h 10.985 c 0.155,0 0.28,0.124 0.28,0.281 v 0.613 c 0,0.156 -0.125,0.282 -0.28,0.282 H 0.283 C 0.128,0.895 0,0.769 0,0.613 Z"
-           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path47954" />
-      </g>
-    </g>
-    <g
-       id="g26428"
-       inkscape:export-filename="galactic-tones/10.svg"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <g
-         id="g47956"
-         transform="matrix(0.35277777,0,0,-0.35277777,151.37859,121.20184)"
-         clip-path="url(#clipPath24994)">
-        <path
-           d="m 0,0 c 0,-0.157 0.127,-0.281 0.281,-0.281 h 10.984 c 0.155,0 0.283,0.124 0.283,0.281 v 0.612 c 0,0.156 -0.128,0.283 -0.283,0.283 H 0.281 C 0.127,0.895 0,0.768 0,0.612 Z"
-           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path47958" />
-      </g>
-      <g
-         id="g47960"
-         transform="matrix(0.35277777,0,0,-0.35277777,151.37859,121.93731)"
-         clip-path="url(#clipPath24990)">
-        <path
-           d="m 0,0 c 0,-0.158 0.127,-0.281 0.281,-0.281 h 10.984 c 0.155,0 0.283,0.123 0.283,0.281 v 0.613 c 0,0.157 -0.128,0.282 -0.283,0.282 H 0.281 C 0.127,0.895 0,0.77 0,0.613 Z"
-           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path47962" />
-      </g>
-    </g>
-    <g
-       id="g26436"
-       inkscape:export-filename="galactic-tones/11.svg"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <g
-         id="g47964"
-         transform="matrix(0.35277777,0,0,-0.35277777,153.7405,124.36072)"
-         clip-path="url(#clipPath24986)">
-        <path
-           d="m 0,0 c 0,-0.507 -0.413,-0.917 -0.921,-0.917 -0.509,0 -0.923,0.41 -0.923,0.917 0,0.508 0.414,0.923 0.923,0.923 C -0.413,0.923 0,0.508 0,0"
-           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path47966" />
-      </g>
-      <g
-         id="g47968"
-         transform="matrix(0.35277777,0,0,-0.35277777,151.37845,125.23603)"
-         clip-path="url(#clipPath24982)">
-        <path
-           d="m 0,0 c 0,-0.155 0.129,-0.279 0.283,-0.279 h 10.982 c 0.158,0 0.283,0.124 0.283,0.279 v 0.614 c 0,0.157 -0.125,0.283 -0.283,0.283 H 0.283 C 0.129,0.897 0,0.771 0,0.614 Z"
-           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path47970" />
-      </g>
-      <g
-         id="g47972"
-         transform="matrix(0.35277777,0,0,-0.35277777,151.37845,125.97055)"
-         clip-path="url(#clipPath24978)">
-        <path
-           d="m 0,0 c 0,-0.158 0.129,-0.281 0.283,-0.281 h 10.982 c 0.158,0 0.283,0.123 0.283,0.281 v 0.614 c 0,0.155 -0.125,0.281 -0.283,0.281 H 0.283 C 0.129,0.895 0,0.769 0,0.614 Z"
-           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path47974" />
-      </g>
-    </g>
-    <g
-       id="g26446"
-       inkscape:export-filename="galactic-tones/12.svg"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <g
-         id="g47976"
-         transform="matrix(0.35277777,0,0,-0.35277777,153.19631,127.9503)"
-         clip-path="url(#clipPath24974)">
-        <path
-           d="m 0,0 c 0,-0.509 -0.413,-0.921 -0.919,-0.921 -0.509,0 -0.921,0.412 -0.921,0.921 0,0.505 0.412,0.918 0.921,0.918 C -0.413,0.918 0,0.505 0,0"
-           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path47978" />
-      </g>
-      <g
-         id="g47980"
-         transform="matrix(0.35277777,0,0,-0.35277777,154.28463,127.9503)"
-         clip-path="url(#clipPath24970)">
-        <path
-           d="m 0,0 c 0,-0.509 -0.413,-0.921 -0.922,-0.921 -0.509,0 -0.921,0.412 -0.921,0.921 0,0.505 0.412,0.918 0.921,0.918 C -0.413,0.918 0,0.505 0,0"
-           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path47982" />
-      </g>
-      <g
-         id="g47984"
-         transform="matrix(0.35277777,0,0,-0.35277777,151.37894,129.56165)"
-         clip-path="url(#clipPath24966)">
-        <path
-           d="m 0,0 c 0,-0.156 0.126,-0.281 0.281,-0.281 h 10.982 c 0.16,0 0.284,0.125 0.284,0.281 v 0.616 c 0,0.153 -0.124,0.282 -0.284,0.282 H 0.281 C 0.126,0.898 0,0.769 0,0.616 Z"
-           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path47986" />
-      </g>
-      <g
-         id="g47988"
-         transform="matrix(0.35277777,0,0,-0.35277777,151.37894,128.82653)"
-         clip-path="url(#clipPath24962)">
-        <path
-           d="m 0,0 c 0,-0.156 0.126,-0.281 0.281,-0.281 h 10.982 c 0.16,0 0.284,0.125 0.284,0.281 v 0.616 c 0,0.153 -0.124,0.28 -0.284,0.28 H 0.281 C 0.126,0.896 0,0.769 0,0.616 Z"
-           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path47990" />
-      </g>
-    </g>
-    <g
-       id="g26410"
-       inkscape:export-filename="galactic-tones/8.svg"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <g
-         id="g47992"
-         transform="matrix(0.35277777,0,0,-0.35277777,151.37876,114.82923)"
-         clip-path="url(#clipPath24958)">
-        <path
-           d="m 0,0 c 0,-0.156 0.128,-0.281 0.283,-0.281 h 10.985 c 0.154,0 0.279,0.125 0.279,0.281 v 0.616 c 0,0.155 -0.125,0.281 -0.279,0.281 H 0.283 C 0.128,0.897 0,0.771 0,0.616 Z"
-           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path47994" />
-      </g>
-      <g
-         id="g47996"
-         transform="matrix(0.35277777,0,0,-0.35277777,152.65356,113.95328)"
-         clip-path="url(#clipPath24954)">
-        <path
-           d="m 0,0 c 0,-0.509 -0.413,-0.921 -0.919,-0.921 -0.511,0 -0.922,0.412 -0.922,0.921 0,0.507 0.411,0.917 0.922,0.917 C -0.413,0.917 0,0.507 0,0"
-           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path47998" />
-      </g>
-      <g
-         id="g48000"
-         transform="matrix(0.35277777,0,0,-0.35277777,153.74033,113.95328)"
-         clip-path="url(#clipPath24950)">
-        <path
-           d="m 0,0 c 0,-0.509 -0.41,-0.921 -0.92,-0.921 -0.506,0 -0.918,0.412 -0.918,0.921 0,0.507 0.412,0.917 0.918,0.917 C -0.41,0.917 0,0.507 0,0"
-           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path48002" />
-      </g>
-      <g
-         id="g48004"
-         transform="matrix(0.35277777,0,0,-0.35277777,154.82798,113.95328)"
-         clip-path="url(#clipPath24946)">
-        <path
-           d="m 0,0 c 0,-0.509 -0.411,-0.921 -0.921,-0.921 -0.508,0 -0.919,0.412 -0.919,0.921 0,0.507 0.411,0.917 0.919,0.917 C -0.411,0.917 0,0.507 0,0"
-           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path48006" />
-      </g>
-    </g>
-    <g
-       id="g26458"
-       inkscape:export-filename="galactic-tones/13.svg"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <g
-         id="g48008"
-         transform="matrix(0.35277777,0,0,-0.35277777,152.6537,131.542)"
-         clip-path="url(#clipPath24942)">
-        <path
-           d="m 0,0 c 0,-0.51 -0.412,-0.919 -0.919,-0.919 -0.51,0 -0.921,0.409 -0.921,0.919 0,0.505 0.411,0.92 0.921,0.92 C -0.412,0.92 0,0.505 0,0"
-           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path48010" />
-      </g>
-      <g
-         id="g48012"
-         transform="matrix(0.35277777,0,0,-0.35277777,153.74061,131.542)"
-         clip-path="url(#clipPath24938)">
-        <path
-           d="m 0,0 c 0,-0.51 -0.41,-0.919 -0.918,-0.919 -0.51,0 -0.921,0.409 -0.921,0.919 0,0.505 0.411,0.92 0.921,0.92 C -0.41,0.92 0,0.505 0,0"
-           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path48014" />
-      </g>
-      <g
-         id="g48016"
-         transform="matrix(0.35277777,0,0,-0.35277777,154.82911,131.542)"
-         clip-path="url(#clipPath24934)">
-        <path
-           d="m 0,0 c 0,-0.51 -0.414,-0.919 -0.921,-0.919 -0.508,0 -0.921,0.409 -0.921,0.919 0,0.505 0.413,0.92 0.921,0.92 C -0.414,0.92 0,0.505 0,0"
-           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path48018" />
-      </g>
-      <g
-         id="g48020"
-         transform="matrix(0.35277777,0,0,-0.35277777,151.37968,133.15275)"
-         clip-path="url(#clipPath24930)">
-        <path
-           d="m 0,0 c 0,-0.156 0.125,-0.281 0.282,-0.281 h 10.984 c 0.155,0 0.279,0.125 0.279,0.281 v 0.613 c 0,0.156 -0.124,0.282 -0.279,0.282 H 0.282 C 0.125,0.895 0,0.769 0,0.613 Z"
-           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path48022" />
-      </g>
-      <g
-         id="g48024"
-         transform="matrix(0.35277777,0,0,-0.35277777,151.37968,132.41763)"
-         clip-path="url(#clipPath24926)">
-        <path
-           d="m 0,0 c 0,-0.156 0.125,-0.281 0.282,-0.281 h 10.984 c 0.155,0 0.279,0.125 0.279,0.281 v 0.615 c 0,0.154 -0.124,0.281 -0.279,0.281 H 0.282 C 0.125,0.896 0,0.769 0,0.615 Z"
-           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path48026" />
-      </g>
-    </g>
     <g
        id="g81622"
        inkscape:label="2"
@@ -2407,6 +1998,573 @@
            d="M 0,0 C 0.324,0 0.587,0.261 0.587,0.586 0.587,0.908 0.324,1.171 0,1.171 -0.323,1.171 -0.585,0.908 -0.585,0.586 -0.585,0.261 -0.323,0 0,0 Z M 3.575,0 C 3.898,0 4.161,0.261 4.161,0.586 4.161,0.908 3.898,1.171 3.575,1.171 3.25,1.171 2.989,0.908 2.989,0.586 2.989,0.261 3.25,0 3.575,0 Z M 1.811,3.642 v -7 m 0,-2.348 c 0.673,0 1.217,0.543 1.217,1.215 0,0.671 -0.544,1.215 -1.217,1.215 -0.674,0 -1.218,-0.544 -1.218,-1.215 0,-0.672 0.544,-1.215 1.218,-1.215 z"
            style="fill:none;stroke:#231f20;stroke-width:0.268;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.864;stroke-dasharray:none;stroke-opacity:1"
            id="path48732" />
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="tonos">
+    <g
+       id="g26384"
+       inkscape:export-filename="galactic-tones/4.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(18.399236,20.192438)"
+       inkscape:label="4">
+      <g
+         id="g47868"
+         transform="matrix(0.35277777,0,0,-0.35277777,133.68438,123.47151)"
+         clip-path="url(#clipPath25082)">
+        <path
+           d="m 0,0 c 0,-0.51 -0.41,-0.923 -0.917,-0.923 -0.509,0 -0.923,0.413 -0.923,0.923 0,0.506 0.414,0.916 0.923,0.916 C -0.41,0.916 0,0.506 0,0"
+           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path47870" />
+      </g>
+      <g
+         id="g47872"
+         transform="matrix(0.35277777,0,0,-0.35277777,134.77235,123.47151)"
+         clip-path="url(#clipPath25078)">
+        <path
+           d="m 0,0 c 0,-0.51 -0.413,-0.923 -0.921,-0.923 -0.507,0 -0.919,0.413 -0.919,0.923 0,0.506 0.412,0.916 0.919,0.916 C -0.413,0.916 0,0.506 0,0"
+           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path47874" />
+      </g>
+      <g
+         id="g47876"
+         transform="matrix(0.35277777,0,0,-0.35277777,135.85929,123.47151)"
+         clip-path="url(#clipPath25074)">
+        <path
+           d="m 0,0 c 0,-0.51 -0.411,-0.923 -0.92,-0.923 -0.508,0 -0.918,0.413 -0.918,0.923 0,0.506 0.41,0.916 0.918,0.916 C -0.411,0.916 0,0.506 0,0"
+           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path47878" />
+      </g>
+      <rect
+         style="fill:#838383;fill-opacity:0;stroke-width:0.0600231"
+         id="rect800-35-6"
+         width="4.0728192"
+         height="2.0344355"
+         x="132.95485"
+         y="121.77324" />
+      <g
+         id="g47880"
+         transform="matrix(0.35277777,0,0,-0.35277777,136.94726,123.47151)"
+         clip-path="url(#clipPath25070)">
+        <path
+           d="m 0,0 c 0,-0.51 -0.412,-0.923 -0.921,-0.923 -0.509,0 -0.921,0.413 -0.921,0.923 0,0.506 0.412,0.916 0.921,0.916 C -0.412,0.916 0,0.506 0,0"
+           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path47882" />
+      </g>
+    </g>
+    <g
+       id="g47884"
+       transform="matrix(0.35277777,0,0,-0.35277777,151.35427,146.55378)"
+       clip-path="url(#clipPath25066)"
+       inkscape:export-filename="galactic-tones/5.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:label="5">
+      <path
+         d="m 0,0 c 0,-0.156 0.124,-0.28 0.279,-0.28 h 10.985 c 0.157,0 0.28,0.124 0.28,0.28 v 0.614 c 0,0.158 -0.123,0.282 -0.28,0.282 H 0.279 C 0.124,0.896 0,0.772 0,0.614 Z"
+         style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path47886" />
+      <rect
+         style="fill:#838383;fill-opacity:0;stroke-width:0.170144"
+         id="rect800-35-5"
+         width="11.545"
+         height="5.7669039"
+         x="-0.0010002318"
+         y="-5.4869037"
+         transform="scale(1,-1)" />
+    </g>
+    <g
+       id="g47888"
+       transform="matrix(0.35277777,0,0,-0.35277777,153.75103,134.59911)"
+       clip-path="url(#clipPath25062)"
+       inkscape:export-filename="galactic-tones/1.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:label="1">
+      <path
+         d="m 0,0 c 0,-0.563 -0.459,-1.022 -1.022,-1.022 -0.564,0 -1.021,0.459 -1.021,1.022 0,0.565 0.457,1.021 1.021,1.021 C -0.459,1.021 0,0.565 0,0"
+         style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path47890" />
+      <rect
+         style="fill:#838383;fill-opacity:0;stroke-width:0.170144"
+         id="rect800-81"
+         width="11.545"
+         height="5.7669039"
+         x="-6.7944999"
+         y="-4.7449036"
+         transform="scale(1,-1)" />
+    </g>
+    <g
+       id="g26390"
+       inkscape:export-filename="galactic-tones/6.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(18.399257,19.84552)"
+       inkscape:label="6">
+      <g
+         id="g47892"
+         transform="matrix(0.35277777,0,0,-0.35277777,135.31577,129.23332)"
+         clip-path="url(#clipPath25058)">
+        <path
+           d="m 0,0 c 0,-0.51 -0.411,-0.923 -0.921,-0.923 -0.509,0 -0.92,0.413 -0.92,0.923 0,0.505 0.411,0.917 0.92,0.917 C -0.411,0.917 0,0.505 0,0"
+           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path47894" />
+      </g>
+      <g
+         id="g47896"
+         transform="matrix(0.35277777,0,0,-0.35277777,132.95466,130.10951)"
+         clip-path="url(#clipPath25054)">
+        <path
+           d="m 0,0 c 0,-0.156 0.124,-0.28 0.281,-0.28 h 10.985 c 0.154,0 0.28,0.124 0.28,0.28 v 0.614 c 0,0.158 -0.126,0.282 -0.28,0.282 H 0.281 C 0.124,0.896 0,0.772 0,0.614 Z"
+           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path47898" />
+      </g>
+      <rect
+         style="fill:#838383;fill-opacity:0;stroke-width:0.0600231"
+         id="rect800-35-9"
+         width="4.0728192"
+         height="2.0344355"
+         x="132.95502"
+         y="128.17384" />
+    </g>
+    <g
+       id="g26366"
+       inkscape:export-filename="galactic-tones/2.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(18.42466,20.203636)"
+       inkscape:label="2">
+      <g
+         id="g47900"
+         transform="matrix(0.35277777,0,0,-0.35277777,134.71853,117.42931)"
+         clip-path="url(#clipPath25050)">
+        <path
+           d="m 0,0 c 0,-0.565 -0.46,-1.022 -1.025,-1.022 -0.562,0 -1.022,0.457 -1.022,1.022 0,0.564 0.46,1.021 1.022,1.021 C -0.46,1.021 0,0.564 0,0"
+           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path47902" />
+      </g>
+      <g
+         id="g47904"
+         transform="matrix(0.35277777,0,0,-0.35277777,135.92606,117.42931)"
+         clip-path="url(#clipPath25046)">
+        <path
+           d="m 0,0 c 0,-0.565 -0.455,-1.022 -1.024,-1.022 -0.564,0 -1.019,0.457 -1.019,1.022 0,0.564 0.455,1.021 1.019,1.021 C -0.455,1.021 0,0.564 0,0"
+           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path47906" />
+      </g>
+      <rect
+         style="fill:#838383;fill-opacity:0;stroke-width:0.0600231"
+         id="rect800-5"
+         width="4.0728192"
+         height="2.0344355"
+         x="132.92943"
+         y="115.75542" />
+    </g>
+    <g
+       id="g26400"
+       inkscape:export-filename="galactic-tones/7.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(18.42466,20.203636)"
+       inkscape:label="7">
+      <g
+         id="g47908"
+         transform="matrix(0.35277777,0,0,-0.35277777,132.95434,133.15279)"
+         clip-path="url(#clipPath25042)">
+        <path
+           d="m 0,0 c 0,-0.156 0.128,-0.281 0.283,-0.281 h 10.984 c 0.157,0 0.281,0.125 0.281,0.281 v 0.615 c 0,0.155 -0.124,0.281 -0.281,0.281 H 0.283 C 0.128,0.896 0,0.77 0,0.615 Z"
+           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path47910" />
+      </g>
+      <g
+         id="g47912"
+         transform="matrix(0.35277777,0,0,-0.35277777,134.77284,132.27716)"
+         clip-path="url(#clipPath25038)">
+        <path
+           d="m 0,0 c 0,-0.51 -0.413,-0.921 -0.922,-0.921 -0.508,0 -0.92,0.411 -0.92,0.921 0,0.508 0.412,0.919 0.92,0.919 C -0.413,0.919 0,0.508 0,0"
+           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path47914" />
+      </g>
+      <g
+         id="g47916"
+         transform="matrix(0.35277777,0,0,-0.35277777,135.86003,132.27716)"
+         clip-path="url(#clipPath25034)">
+        <path
+           d="m 0,0 c 0,-0.51 -0.412,-0.921 -0.918,-0.921 -0.511,0 -0.924,0.411 -0.924,0.921 0,0.508 0.413,0.919 0.924,0.919 C -0.412,0.919 0,0.508 0,0"
+           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path47918" />
+      </g>
+      <g
+         id="g47920"
+         transform="matrix(0.35277777,0,0,-0.35277777,132.95434,133.15279)"
+         clip-path="url(#clipPath25030)">
+        <rect
+           style="fill:#838383;fill-opacity:0;stroke-width:0.170144"
+           id="rect800-35-54"
+           width="11.545"
+           height="5.7669039"
+           x="0.0024997233"
+           y="-5.4859037"
+           transform="scale(1,-1)" />
+      </g>
+    </g>
+    <g
+       id="g26374"
+       inkscape:export-filename="galactic-tones/3.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(18.398369,20.237636)"
+       inkscape:label="3">
+      <g
+         id="g47932"
+         transform="matrix(0.35277777,0,0,-0.35277777,136.56033,120.42845)"
+         clip-path="url(#clipPath25018)">
+        <path
+           d="m 0,0 c 0,-0.567 -0.458,-1.024 -1.021,-1.024 -0.563,0 -1.022,0.457 -1.022,1.024 0,0.56 0.459,1.018 1.022,1.018 C -0.458,1.018 0,0.56 0,0"
+           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path47934" />
+        <rect
+           style="fill:#838383;fill-opacity:0;stroke-width:0.170144"
+           id="rect800-35"
+           width="11.545"
+           height="5.7669039"
+           x="-10.217789"
+           y="-4.7429037"
+           transform="scale(1,-1)" />
+        <g
+           id="g47924"
+           transform="translate(-6.8465992)"
+           clip-path="url(#clipPath25026-8)">
+          <path
+             d="m 0,0 c 0,-0.567 -0.458,-1.024 -1.022,-1.024 -0.568,0 -1.027,0.457 -1.027,1.024 0,0.56 0.459,1.018 1.027,1.018 C -0.458,1.018 0,0.56 0,0"
+             style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path47926" />
+        </g>
+        <g
+           id="g47928"
+           transform="translate(-3.4232825)"
+           clip-path="url(#clipPath25022-1)">
+          <path
+             d="m 0,0 c 0,-0.567 -0.457,-1.024 -1.022,-1.024 -0.566,0 -1.022,0.457 -1.022,1.024 0,0.56 0.456,1.018 1.022,1.018 C -0.457,1.018 0,0.56 0,0"
+             style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path47930" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g26422"
+       inkscape:export-filename="galactic-tones/9.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(2.3841884e-4,42.663922)"
+       inkscape:label="9">
+      <g
+         id="g47936"
+         transform="matrix(0.35277777,0,0,-0.35277777,152.10954,117.54459)"
+         clip-path="url(#clipPath25014)">
+        <path
+           d="m 0,0 c 0,-0.509 -0.413,-0.922 -0.922,-0.922 -0.504,0 -0.919,0.413 -0.919,0.922 0,0.506 0.415,0.918 0.919,0.918 C -0.413,0.918 0,0.506 0,0"
+           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path47938" />
+      </g>
+      <g
+         id="g47940"
+         transform="matrix(0.35277777,0,0,-0.35277777,153.19709,117.54459)"
+         clip-path="url(#clipPath25010)">
+        <path
+           d="m 0,0 c 0,-0.509 -0.412,-0.922 -0.922,-0.922 -0.508,0 -0.92,0.413 -0.92,0.922 0,0.506 0.412,0.918 0.92,0.918 C -0.412,0.918 0,0.506 0,0"
+           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path47942" />
+      </g>
+      <g
+         id="g47944"
+         transform="matrix(0.35277777,0,0,-0.35277777,154.28463,117.54459)"
+         clip-path="url(#clipPath25006)">
+        <path
+           d="m 0,0 c 0,-0.509 -0.414,-0.922 -0.921,-0.922 -0.511,0 -0.921,0.413 -0.921,0.922 0,0.506 0.41,0.918 0.921,0.918 C -0.414,0.918 0,0.506 0,0"
+           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path47946" />
+      </g>
+      <g
+         id="g47948"
+         transform="matrix(0.35277777,0,0,-0.35277777,155.3709,117.54459)"
+         clip-path="url(#clipPath25002)">
+        <path
+           d="m 0,0 c 0,-0.509 -0.409,-0.922 -0.919,-0.922 -0.51,0 -0.921,0.413 -0.921,0.922 0,0.506 0.411,0.918 0.921,0.918 C -0.409,0.918 0,0.506 0,0"
+           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path47950" />
+      </g>
+      <g
+         id="g47952"
+         transform="matrix(0.35277777,0,0,-0.35277777,151.37859,118.42047)"
+         clip-path="url(#clipPath24998)">
+        <path
+           d="m 0,0 c 0,-0.157 0.128,-0.281 0.283,-0.281 h 10.985 c 0.155,0 0.28,0.124 0.28,0.281 v 0.613 c 0,0.156 -0.125,0.282 -0.28,0.282 H 0.283 C 0.128,0.895 0,0.769 0,0.613 Z"
+           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path47954" />
+      </g>
+      <rect
+         style="fill:#838383;fill-opacity:0;stroke-width:0.0600231"
+         id="rect800-8"
+         width="4.0728192"
+         height="2.0344355"
+         x="151.37965"
+         y="116.48516" />
+    </g>
+    <g
+       id="g26428"
+       inkscape:export-filename="galactic-tones/10.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(2.3841884e-4,42.663922)"
+       inkscape:label="10">
+      <g
+         id="g4728">
+        <g
+           id="g47956"
+           transform="matrix(0.35277777,0,0,-0.35277777,151.37859,121.20184)"
+           clip-path="url(#clipPath24994)">
+          <path
+             d="m 0,0 c 0,-0.157 0.127,-0.281 0.281,-0.281 h 10.984 c 0.155,0 0.283,0.124 0.283,0.281 v 0.612 c 0,0.156 -0.128,0.283 -0.283,0.283 H 0.281 C 0.127,0.895 0,0.768 0,0.612 Z"
+             style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path47958" />
+        </g>
+        <g
+           id="g47960"
+           transform="matrix(0.35277777,0,0,-0.35277777,151.37859,121.93731)"
+           clip-path="url(#clipPath24990)">
+          <path
+             d="m 0,0 c 0,-0.158 0.127,-0.281 0.281,-0.281 h 10.984 c 0.155,0 0.283,0.123 0.283,0.281 v 0.613 c 0,0.157 -0.128,0.282 -0.283,0.282 H 0.281 C 0.127,0.895 0,0.77 0,0.613 Z"
+             style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path47962" />
+        </g>
+        <rect
+           style="fill:#838383;fill-opacity:0;stroke-width:0.0600231"
+           id="rect800-7"
+           width="4.0728192"
+           height="2.0344355"
+           x="151.37877"
+           y="120.002" />
+      </g>
+    </g>
+    <g
+       id="g26436"
+       inkscape:export-filename="galactic-tones/11.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(2.3841884e-4,42.663922)"
+       inkscape:label="11">
+      <g
+         id="g47964"
+         transform="matrix(0.35277777,0,0,-0.35277777,153.7405,124.36072)"
+         clip-path="url(#clipPath24986)">
+        <path
+           d="m 0,0 c 0,-0.507 -0.413,-0.917 -0.921,-0.917 -0.509,0 -0.923,0.41 -0.923,0.917 0,0.508 0.414,0.923 0.923,0.923 C -0.413,0.923 0,0.508 0,0"
+           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path47966" />
+      </g>
+      <g
+         id="g47968"
+         transform="matrix(0.35277777,0,0,-0.35277777,151.37845,125.23603)"
+         clip-path="url(#clipPath24982)">
+        <path
+           d="m 0,0 c 0,-0.155 0.129,-0.279 0.283,-0.279 h 10.982 c 0.158,0 0.283,0.124 0.283,0.279 v 0.614 c 0,0.157 -0.125,0.283 -0.283,0.283 H 0.283 C 0.129,0.897 0,0.771 0,0.614 Z"
+           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path47970" />
+      </g>
+      <g
+         id="g47972"
+         transform="matrix(0.35277777,0,0,-0.35277777,151.37845,125.97055)"
+         clip-path="url(#clipPath24978)">
+        <path
+           d="m 0,0 c 0,-0.158 0.129,-0.281 0.283,-0.281 h 10.982 c 0.158,0 0.283,0.123 0.283,0.281 v 0.614 c 0,0.155 -0.125,0.281 -0.283,0.281 H 0.283 C 0.129,0.895 0,0.769 0,0.614 Z"
+           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path47974" />
+      </g>
+      <rect
+         style="fill:#838383;fill-opacity:0;stroke-width:0.0600231"
+         id="rect800-3"
+         width="4.0728192"
+         height="2.0344355"
+         x="151.37898"
+         y="124.03524" />
+    </g>
+    <g
+       id="g26446"
+       inkscape:export-filename="galactic-tones/12.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(2.3841884e-4,42.663922)"
+       inkscape:label="12">
+      <g
+         id="g47976"
+         transform="matrix(0.35277777,0,0,-0.35277777,153.19631,127.9503)"
+         clip-path="url(#clipPath24974)">
+        <path
+           d="m 0,0 c 0,-0.509 -0.413,-0.921 -0.919,-0.921 -0.509,0 -0.921,0.412 -0.921,0.921 0,0.505 0.412,0.918 0.921,0.918 C -0.413,0.918 0,0.505 0,0"
+           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path47978" />
+      </g>
+      <g
+         id="g47980"
+         transform="matrix(0.35277777,0,0,-0.35277777,154.28463,127.9503)"
+         clip-path="url(#clipPath24970)">
+        <path
+           d="m 0,0 c 0,-0.509 -0.413,-0.921 -0.922,-0.921 -0.509,0 -0.921,0.412 -0.921,0.921 0,0.505 0.412,0.918 0.921,0.918 C -0.413,0.918 0,0.505 0,0"
+           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path47982" />
+      </g>
+      <g
+         id="g47984"
+         transform="matrix(0.35277777,0,0,-0.35277777,151.37894,129.56165)"
+         clip-path="url(#clipPath24966)">
+        <path
+           d="m 0,0 c 0,-0.156 0.126,-0.281 0.281,-0.281 h 10.982 c 0.16,0 0.284,0.125 0.284,0.281 v 0.616 c 0,0.153 -0.124,0.282 -0.284,0.282 H 0.281 C 0.126,0.898 0,0.769 0,0.616 Z"
+           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path47986" />
+      </g>
+      <g
+         id="g47988"
+         transform="matrix(0.35277777,0,0,-0.35277777,151.37894,128.82653)"
+         clip-path="url(#clipPath24962)">
+        <path
+           d="m 0,0 c 0,-0.156 0.126,-0.281 0.281,-0.281 h 10.982 c 0.16,0 0.284,0.125 0.284,0.281 v 0.616 c 0,0.153 -0.124,0.28 -0.284,0.28 H 0.281 C 0.126,0.896 0,0.769 0,0.616 Z"
+           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path47990" />
+      </g>
+      <rect
+         style="fill:#838383;fill-opacity:0;stroke-width:0.0600231"
+         id="rect800-1"
+         width="4.0728192"
+         height="2.0344355"
+         x="151.37929"
+         y="127.62518" />
+    </g>
+    <g
+       id="g26410"
+       inkscape:export-filename="galactic-tones/8.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(-0.02535158,0.05276048)"
+       inkscape:label="8">
+      <g
+         id="g4739"
+         transform="translate(0.02558992,42.611162)">
+        <g
+           id="g47992"
+           transform="matrix(0.35277777,0,0,-0.35277777,151.37876,114.82923)"
+           clip-path="url(#clipPath24958)">
+          <path
+             d="m 0,0 c 0,-0.156 0.128,-0.281 0.283,-0.281 h 10.985 c 0.154,0 0.279,0.125 0.279,0.281 v 0.616 c 0,0.155 -0.125,0.281 -0.279,0.281 H 0.283 C 0.128,0.897 0,0.771 0,0.616 Z"
+             style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path47994" />
+        </g>
+        <g
+           id="g47996"
+           transform="matrix(0.35277777,0,0,-0.35277777,152.65356,113.95328)"
+           clip-path="url(#clipPath24954)">
+          <path
+             d="m 0,0 c 0,-0.509 -0.413,-0.921 -0.919,-0.921 -0.511,0 -0.922,0.412 -0.922,0.921 0,0.507 0.411,0.917 0.922,0.917 C -0.413,0.917 0,0.507 0,0"
+             style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path47998" />
+        </g>
+        <g
+           id="g48000"
+           transform="matrix(0.35277777,0,0,-0.35277777,153.74033,113.95328)"
+           clip-path="url(#clipPath24950)">
+          <path
+             d="m 0,0 c 0,-0.509 -0.41,-0.921 -0.92,-0.921 -0.506,0 -0.918,0.412 -0.918,0.921 0,0.507 0.412,0.917 0.918,0.917 C -0.41,0.917 0,0.507 0,0"
+             style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path48002" />
+        </g>
+        <g
+           id="g48004"
+           transform="matrix(0.35277777,0,0,-0.35277777,154.82798,113.95328)"
+           clip-path="url(#clipPath24946)">
+          <path
+             d="m 0,0 c 0,-0.509 -0.411,-0.921 -0.921,-0.921 -0.508,0 -0.919,0.412 -0.919,0.921 0,0.507 0.411,0.917 0.919,0.917 C -0.411,0.917 0,0.507 0,0"
+             style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path48006" />
+        </g>
+        <rect
+           style="fill:#838383;fill-opacity:0;stroke-width:0.0600231"
+           id="rect800-83"
+           width="4.0728192"
+           height="2.0344355"
+           x="151.37982"
+           y="112.89392" />
+      </g>
+    </g>
+    <g
+       id="g3362"
+       transform="translate(2.3841884e-4,42.663922)"
+       inkscape:label="13">
+      <g
+         id="g3376">
+        <rect
+           style="fill:#838383;fill-opacity:0;stroke-width:0.0600231"
+           id="rect800"
+           width="4.0728192"
+           height="2.0344355"
+           x="151.37929"
+           y="130.63043" />
+        <g
+           id="g26458"
+           inkscape:export-filename="galactic-tones/13.svg"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:label="g26458"
+           transform="translate(-3.8722223e-4,-0.58701666)">
+          <g
+             id="g48008"
+             transform="matrix(0.35277777,0,0,-0.35277777,152.6537,131.542)"
+             clip-path="url(#clipPath24942)">
+            <path
+               d="m 0,0 c 0,-0.51 -0.412,-0.919 -0.919,-0.919 -0.51,0 -0.921,0.409 -0.921,0.919 0,0.505 0.411,0.92 0.921,0.92 C -0.412,0.92 0,0.505 0,0"
+               style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="path48010" />
+          </g>
+          <g
+             id="g48012"
+             transform="matrix(0.35277777,0,0,-0.35277777,153.74061,131.542)"
+             clip-path="url(#clipPath24938)">
+            <path
+               d="m 0,0 c 0,-0.51 -0.41,-0.919 -0.918,-0.919 -0.51,0 -0.921,0.409 -0.921,0.919 0,0.505 0.411,0.92 0.921,0.92 C -0.41,0.92 0,0.505 0,0"
+               style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="path48014" />
+          </g>
+          <g
+             id="g48016"
+             transform="matrix(0.35277777,0,0,-0.35277777,154.82911,131.542)"
+             clip-path="url(#clipPath24934)">
+            <path
+               d="m 0,0 c 0,-0.51 -0.414,-0.919 -0.921,-0.919 -0.508,0 -0.921,0.409 -0.921,0.919 0,0.505 0.413,0.92 0.921,0.92 C -0.414,0.92 0,0.505 0,0"
+               style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="path48018" />
+          </g>
+          <g
+             id="g48020"
+             transform="matrix(0.35277777,0,0,-0.35277777,151.37968,133.15275)"
+             clip-path="url(#clipPath24930)">
+            <path
+               d="m 0,0 c 0,-0.156 0.125,-0.281 0.282,-0.281 h 10.984 c 0.155,0 0.279,0.125 0.279,0.281 v 0.613 c 0,0.156 -0.124,0.282 -0.279,0.282 H 0.282 C 0.125,0.895 0,0.769 0,0.613 Z"
+               style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="path48022" />
+          </g>
+          <g
+             id="g48024"
+             transform="matrix(0.35277777,0,0,-0.35277777,151.37968,132.41763)"
+             clip-path="url(#clipPath24926)">
+            <path
+               d="m 0,0 c 0,-0.156 0.125,-0.281 0.282,-0.281 h 10.984 c 0.155,0 0.279,0.125 0.279,0.281 v 0.615 c 0,0.154 -0.124,0.281 -0.279,0.281 H 0.282 C 0.125,0.896 0,0.769 0,0.615 Z"
+               style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="path48026" />
+          </g>
+        </g>
       </g>
     </g>
   </g>
