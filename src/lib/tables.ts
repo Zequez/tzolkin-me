@@ -4,10 +4,10 @@ export type Color = {
 };
 
 export const colors: Color[] = [
-  { name: "Rojo", code: "#cb535a" },
+  { name: "Rojo", code: "#ED114E" },
   { name: "Blanco", code: "#ffffff" },
-  { name: "Azul", code: "#4088c6" },
-  { name: "Amarillo", code: "#f8de32" },
+  { name: "Azul", code: "#05A1E6" },
+  { name: "Amarillo", code: "#FBC707" },
 ];
 
 export type Tone = {

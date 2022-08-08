@@ -41,56 +41,68 @@ const Calendar = ({}) => {
       <div className="flex-grow flex flex-col">
         <div className="flex">
           <div className="w-12"></div>
-          <div className="flex-grow grid grid-cols-7 gap-2 p-2">
+          <div className="flex-grow grid grid-cols-7 gap-2 px-2 pt-2">
             {plasmas.map(({ name, color }, i) => (
-              <div
-                className="flex flex-col items-center uppercase font-medium py-2 rounded-md bg-opacity-10"
-                style={{ backgroundColor: colors[color].code }}
-              >
-                <img src={`/radial-plasmas/${i + 1}.svg`} className="h-10" />
-                {name}
+              <div className="flex items-center justify-center relative">
+                <div
+                  className="w-16 h-16 bg-gray-500 flex items-center justify-center rounded-full z-20"
+                  style={{ backgroundColor: colors[color].code }}
+                >
+                  <div className="uppercase font-medium text-sm text-center">
+                    <img
+                      src={`/radial-plasmas/${i + 1}.svg`}
+                      className="h-8 inline-block"
+                    />
+                    <div>{name}</div>
+                  </div>
+                </div>
+                <div
+                  className="w-8 absolute bottom-0 h-1/2 z-10 bg-red-400"
+                  style={{ backgroundColor: colors[color].code }}
+                ></div>
               </div>
             ))}
           </div>
         </div>
-
-        <div className="flex flex-grow">
-          <div className="w-12 flex flex-col">
-            {colors.map((color, i) => (
+        <div className="flex-grow flex flex-col">
+          {colors.map((color, weekNumber) => (
+            <div
+              className="flex-grow flex"
+              style={{ backgroundColor: opacify(color.code, 0.5) }}
+            >
               <div
+                className="w-12 my-2 flex-shrink-0 flex items-center justify-center rounded-r-md"
                 style={{ backgroundColor: color.code }}
-                className="flex-grow mb-2 flex items-center justify-center"
               >
-                <div
-                  className="transform -rotate-90 uppercase text-sm font-bold"
-                  style={{ backgroundColor: opacify(color.code, 0.5) }}
-                >
+                <div className="transform -rotate-90 uppercase text-sm font-bold">
                   {color.name}
                 </div>
               </div>
-            ))}
-          </div>
-          <div className="flex-grow flex flex-col">
-            {colors.map((color, weekNumber) => (
-              <div
-                className="flex-grow grid grid-cols-7 gap-2 px-2 mb-2"
-                style={{ backgroundColor: opacify(color.code, 1) }}
-              >
+
+              <div className="flex-grow grid grid-cols-7 gap-2 px-2">
                 {plasmas.map((plasma, weekdayNumber) => (
-                  <div
-                    className="flex flex-grow items-center justify-center bg-white bg-opacity-75 rounded-md border-solid border-t-4 border-l-4"
-                    style={{
-                      borderTopColor: colors[plasma.color].code,
-                      borderLeftColor: color.code,
-                      //   backgroundColor: opacify(color.code, 0.25),
-                    }}
-                  >
-                    {weekdayNumber}
+                  <div className="flex-grow flex justify-center relative">
+                    <div
+                      className="z-10 absolute w-8 h-full top-0"
+                      style={{ backgroundColor: colors[plasma.color].code }}
+                    ></div>
+                    <div
+                      className="z-20 my-2 flex flex-grow items-center justify-center bg-white rounded-md border-solid border border-gray-300"
+                      style={
+                        {
+                          //   borderTopColor: colors[plasma.color].code,
+                          //   borderLeftColor: color.code,
+                          //   backgroundColor: opacify(color.code, 0.25),
+                        }
+                      }
+                    >
+                      {weekdayNumber}
+                    </div>
                   </div>
                 ))}
               </div>
-            ))}
-          </div>
+            </div>
+          ))}
         </div>
       </div>
     </div>
