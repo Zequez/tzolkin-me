@@ -25,7 +25,7 @@ export const tones: Tone[] = [
   { name: "Galáctico" },
   { name: "Solar" },
   { name: "Planetaria" },
-  { name: "Espectr" },
+  { name: "Espectral" },
   { name: "Cristal" },
   { name: "Cósmico" },
 ];

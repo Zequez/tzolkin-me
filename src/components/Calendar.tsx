@@ -1,5 +1,6 @@
 import { useState } from "react";
-import { opacify } from "../lib/utils";
+import cx from "classnames";
+import { opacify, feminizar } from "../lib/utils";
 import { colors, tones, plasmas } from "../lib/tables";
 
 const Calendar = ({}) => {
@@ -7,14 +8,14 @@ const Calendar = ({}) => {
 
   const nextMoon = () => {
     if (moon === 12) {
-      setMoon(1);
+      setMoon(0);
     } else {
       setMoon(moon + 1);
     }
   };
 
   const prevMoon = () => {
-    if (moon === 1) {
+    if (moon === 0) {
       setMoon(12);
     } else {
       setMoon(moon - 1);
@@ -23,21 +24,39 @@ const Calendar = ({}) => {
 
   return (
     <div className="flex flex-col w-full min-h-screen">
-      <div className="h-20 bg-black bg-opacity-10 flex items-center justify-center">
+      <div className="h-20 flex items-center justify-center mt-2">
         <button
-          className="bg-black bg-opacity-10 h-full px-4"
+          className="bg-black bg-opacity-10 h-full px-4 mr-2 rounded-r-md"
           onClick={prevMoon}
         >
           &lt;
         </button>
-        <div className="flex-grow text-center">Luna {tones[moon].name}</div>
+        <div className="bg-black bg-opacity-10 grid grid-cols-13 gap-1 flex-grow h-full">
+          {tones.map((tone, moonTone) => (
+            <div
+              className={cx(
+                "flex flex-col text-xs items-center cursor-pointer justify-center whitespace-nowrap   rounded-md",
+                {
+                  ["bg-gray-200 text-black"]: moonTone === moon,
+                  ["bg-gray-800 text-white hover:bg-gray-700"]:
+                    moonTone !== moon,
+                }
+              )}
+              onClick={() => setMoon(moonTone)}
+            >
+              <div>Luna</div>
+              <div className="">{feminizar(tone.name)}</div>
+            </div>
+          ))}
+        </div>
         <button
-          className="bg-black bg-opacity-10 h-full px-4"
+          className="bg-black bg-opacity-10 h-full px-4 ml-2 rounded-l-md"
           onClick={nextMoon}
         >
           &gt;
         </button>
       </div>
+
       <div className="flex-grow flex flex-col">
         <div className="flex">
           <div className="w-12"></div>
