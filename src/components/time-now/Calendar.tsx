@@ -1,7 +1,7 @@
 import { useState } from "react";
 import cx from "classnames";
-import { opacify, feminizar } from "../lib/utils";
-import { colors, tones, seals, plasmas } from "../lib/tables";
+import { opacify, feminizar } from "../../lib/utils";
+import { colors, tones, seals, plasmas } from "../../lib/tables";
 
 const day1Date = new Date("2022-07-26");
 const day1Tone = 3;
@@ -52,7 +52,7 @@ const Calendar = ({}) => {
   };
 
   return (
-    <div className="flex flex-col w-full min-h-screen">
+    <div className="flex flex-col w-full h-full">
       <div className="h-20 flex items-center justify-center mt-2">
         <button
           className="bg-black bg-opacity-10 h-full px-4 mr-2 rounded-r-md"
