@@ -1,5 +1,3 @@
-import { stringify } from "querystring";
-
 export const opacify = (color: string, opacity: number) => {
   const matched = color.match(/[a-f0-9]{2}/gi);
   if (!matched) throw Error("Invalid color");

@@ -17,23 +17,23 @@ const getDayTone = (moon: number, day: number): number => {
   return days % 13;
 };
 
-const isSameDay = (date1: Date, date2: Date): boolean => {
-  return (
-    date1.getFullYear() === date2.getFullYear() &&
-    date1.getMonth() === date2.getMonth() &&
-    date1.getDate() === date2.getDate()
-  );
-};
+// const isSameDay = (date1: Date, date2: Date): boolean => {
+//   return (
+//     date1.getFullYear() === date2.getFullYear() &&
+//     date1.getMonth() === date2.getMonth() &&
+//     date1.getDate() === date2.getDate()
+//   );
+// };
 
 function addDays(date: Date, number: number): Date {
   const newDate = new Date(date);
   return new Date(newDate.setDate(newDate.getDate() + number));
 }
 
-const Calendar = ({}) => {
+const Calendar = () => {
   const [moon, setMoon] = useState(0);
-  const [day, setDay] = useState(0);
-  const today = new Date();
+  // const [day, setDay] = useState(0);
+  // const today = new Date();
 
   const nextMoon = () => {
     if (moon === 12) {
@@ -63,12 +63,12 @@ const Calendar = ({}) => {
         <div className="grid grid-cols-13 gap-1 flex-grow h-full">
           {tones.map((tone, moonTone) => (
             <div
+              key={moonTone}
               className={cx(
                 "flex flex-col text-xs items-center cursor-pointer justify-center whitespace-nowrap   rounded-md",
                 {
-                  ["bg-gray-200 text-black"]: moonTone === moon,
-                  ["bg-gray-800 text-white hover:bg-gray-700"]:
-                    moonTone !== moon,
+                  "bg-gray-200 text-black": moonTone === moon,
+                  "bg-gray-800 text-white hover:bg-gray-700": moonTone !== moon,
                 }
               )}
               onClick={() => setMoon(moonTone)}
@@ -91,7 +91,10 @@ const Calendar = ({}) => {
           <div className="w-12"></div>
           <div className="flex-grow grid grid-cols-7 gap-2 px-2 pt-2">
             {plasmas.map(({ name, color }, i) => (
-              <div className="flex items-center justify-center relative">
+              <div
+                key={i}
+                className="flex items-center justify-center relative"
+              >
                 <div
                   className="w-16 h-16 bg-gray-500 flex items-center justify-center rounded-full z-20"
                   style={{ backgroundColor: colors[color].code }}
@@ -100,6 +103,7 @@ const Calendar = ({}) => {
                     <img
                       src={`/radial-plasmas/${i + 1}.svg`}
                       className="h-8 inline-block"
+                      alt={name}
                     />
                     <div>{name}</div>
                   </div>
@@ -120,6 +124,7 @@ const Calendar = ({}) => {
                 backgroundColor: opacify(color.code, 0.5),
                 flex: "1 1 0",
               }}
+              key={weekNumber}
             >
               <div
                 className="w-12 my-2 flex-shrink-0 flex items-center justify-center rounded-r-md"
@@ -132,7 +137,10 @@ const Calendar = ({}) => {
 
               <div className="flex-grow grid grid-cols-7 gap-2 px-2">
                 {plasmas.map((plasma, weekdayNumber) => (
-                  <div className="flex-grow flex justify-center relative">
+                  <div
+                    className="flex-grow flex justify-center relative"
+                    key={weekdayNumber}
+                  >
                     <div
                       className="z-10 absolute w-8 h-full top-0"
                       style={{ backgroundColor: colors[plasma.color].code }}
@@ -164,12 +172,14 @@ const DaySlot = ({ moon, day }: { moon: number; day: number }) => {
         <img
           src={`/galactic-tones/${dayTone + 1}.svg`}
           className="w-10 inline-block mb-1 opacity-80"
+          alt={`${dayTone + 1}`}
         />
       </div>
       <div className="mb-2">
         <img
           src={`/solar-seals/${daySeal + 1}.svg`}
           className="w-12 inline-block"
+          alt={seals[daySeal].name}
         />
       </div>
       <div>{seals[daySeal].name}</div>
