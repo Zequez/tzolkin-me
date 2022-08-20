@@ -1,6 +1,10 @@
-module.exports = {
-  purge: ["./src/**/*.{js,jsx,ts,tsx}", "./public/index.html"],
-  darkMode: false, // or 'media' or 'class'
+import { defineConfig } from "windicss/helpers";
+
+export default defineConfig({
+  darkMode: "media",
+  content: ["./src/**/*.{js,jsx,ts,tsx,svelte,vue,astro,html}"],
+  attributify: true,
+  preflight: {},
   theme: {
     extend: {
       colors: {
@@ -15,8 +19,8 @@ module.exports = {
       },
     },
   },
-  variants: {
-    extend: {},
+  shortcuts: {
+    //...
   },
   plugins: [],
-};
+});
