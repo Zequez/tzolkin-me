@@ -1,7 +1,7 @@
 {
     "name": "tzolkin-me",
     "version": "0.1.0",
-    "private": false,
+    "private": true,
     "dependencies": {
         "@craco/craco": "^6.4.5",
         "@supabase/supabase-js": "^1.35.6",
